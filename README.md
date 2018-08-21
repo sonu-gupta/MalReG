@@ -1,2 +1,2 @@
 # MalReG
-Malicious Retweeter Groups
+MalReg: Detecting and Analyzing Malicious Retweeter Groups
