@@ -10,7 +10,17 @@ Given a retweeter network in Twitter for any event, how can we detect the group 
 
 ## Dataset
 
-The annotated retweeter groups are available at https://tinyurl.com/yawz6z6h. Contact sonug@iiitd.ac.in for more details.
+The annotated retweeter groups are available in the dataset folder. 
+
+The dataset is in JSON format. It can be easily exported to MongoDB.
+
+Every collection has three fields: id, group_ids, and label.
+
+id is a unique identifier for each group.<br>
+group_ids consists of a list of Twitter ids of the users for that particular group.<br>
+label is a boolean field. It is either True or False.
+
+Contact sonug@iiitd.ac.in for more details.
 
 To cite, please use the following:
 
