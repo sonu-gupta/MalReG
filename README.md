@@ -2,7 +2,7 @@
 
 Sonu Gupta, Ponnurangam Kumaraguru, Tanmoy Chakraborty
 
-The repository contains three feature extraction scripts used in our paper "MalReG: Detecting and Analyzing Malicious Retweeter Groups" ([accepted at CoDS-COMAD 2019](http://www.cods-comad.in/2019/index.html)). 
+The repository contains feature extraction scripts and the annotated dataset used in our paper "MalReG: Detecting and Analyzing Malicious Retweeter Groups" ([accepted at CoDS-COMAD 2019](http://www.cods-comad.in/2019/index.html)). 
 
 ## Abstract
 
