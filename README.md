@@ -29,6 +29,7 @@ To cite, please use the following:
   title={MalReG: Detecting and Analyzing Malicious Retweeter Groups},
   author={Gupta, Sonu and Kumaraguru, Ponnurangam and Chakraborty, Tanmoy},
   booktitle={Proceedings of the ACM India Joint International Conference on Data Science and Management of Data},
+  pages={61--69},
   year={2019},
   organization={ACM}
 }
