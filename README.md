@@ -20,7 +20,7 @@ id is a unique identifier for each group.<br>
 group_ids consists of a list of Twitter ids of the users for that particular group.<br>
 label is a boolean field. It is either True or False.
 
-Contact sonug@iiitd.ac.in for more details.
+Contact gupta.sonu1607@gmail.com for more details.
 
 To cite, please use the following:
 
